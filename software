@@ -1,0 +1,67 @@
+# iobit
+127.0.0.1	idb.iobit.com
+127.0.0.1	asc55.iobit.com
+127.0.0.1	is360.iobit.com
+127.0.0.1	asc.iobit.com
+127.0.0.1	pf.iobit.com
+127.0.0.1	iunins.iobit.com
+127.0.0.1	sd.iobit.com
+
+# eltima
+127.0.0.1       activate.eltima.com
+
+# freemake
+127.0.0.1       34.192.103.139
+127.0.0.1       freemake.com
+
+# alienskin
+127.0.0.1       activation.alienskin.com
+127.0.0.1       alienskin.com
+
+# apple
+74.208.10.249   gs.apple.com
+127.0.0.1       gs.apple.com
+
+# xmind
+0.0.0.0 xmind.net
+0.0.0.0 www.xmind.net
+
+# presonus
+127.0.0.1 registration.presonus.com
+
+# R2R
+127.0.0.1 www.r2rdownload.com
+127.0.0.1 www.elephantafiles.com
+
+# Bandicam
+127.0.0.1   bandicam.com
+127.0.0.1   ssl.bandisoft.com
+127.0.0.1   cert.bandicam.com
+127.0.0.1   www.bandicam.com
+
+# Bluementals
+127.0.0.1 www.blumentals.net
+
+# Mawarebytes
+0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 serius.mwbsys.com
+0.0.0.0 keystone.mwbsys.com
+0.0.0.0 links.malwarebytes.com
+0.0.0.0 subscribe-staging.mwbsys.com
+
+# Sublime
+127.0.0.1    license.sublimehq.co
+
+# Luminar
+127.0.0.1 auth.macphun.com
+127.0.0.1 luminar3win.update.skylum.com
+127.0.0.1 luminar3.s3-accelerate.amazonaws.com
+127.0.0.1 luminar4win.update.skylum.com
+127.0.0.1 luminar4.s3-accelerate.amazonaws.com
+127.0.0.1 stats-api.skylum.com
+127.0.0.1 geotargetly-1a441.appspot.com
+127.0.0.1 fx.macphun.com
+127.0.0.1 canonicalizer.ucsuri.tcs
+127.0.0.1 auth.macphun.com
+127.0.0.1 stats-api.skylum.com
+127.0.0.1 api.photolemur.com
